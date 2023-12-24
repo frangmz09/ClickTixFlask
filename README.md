@@ -22,4 +22,5 @@ Por el momento, el proyecto está archivado. La idea es proporcionarle más func
 Usuarios y contraseñas segun roles:
 - admin:admin
 - user:user
+  
 [¡Prueba ClickTix ahora!](https://clicktixflaskmvp.clicktix.repl.co/)
